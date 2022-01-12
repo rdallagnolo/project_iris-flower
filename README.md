@@ -25,4 +25,3 @@ error is in the fourth feature. The 38th sample: 4.9,3.6,1.4,0.1,"Iris-setosa" w
 
 **Data originally publlished in:**
  - R. A. Fisher (1936). <a href="https://onlinelibrary.wiley.com/doi/10.1111/j.1469-1809.1936.tb02137.x">The use of multiple measurements in taxonomic problems.</a> Annals of Eugenics. 7 (2): 179–188.
- 
